@@ -12,6 +12,7 @@ My name is Oleg Nadych and I'm a software developer. I'm from Russia, living in 
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=f48041)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=f48041)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=ApacheMaven&logoColor=white&color=f48041)
+![](https://img.shields.io/badge/Tools-Flyway-informational?style=flat&logo=flyway&logoColor=white&color=f48041)
 
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Code-AngularJS-informational?style=flat&logo=angularjs&logoColor=white&color=339933)
