@@ -28,7 +28,7 @@ My name is Oleg Nadych and I'm a software developer. I'm from Russia, living in 
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=trello&logoColor=white&color=339933)
-![](https://img.shields.io/badge/Messenger-Slack-informational?style=flat&logo=Slack&logoColor=white&color=339933)
+![](https://img.shields.io/badge/Messenger-Slack-informational?style=flat&logo=Slack&logoColor=white&color=339933) 
 
 
 ## &#x1f4c8; GitHub Stats
