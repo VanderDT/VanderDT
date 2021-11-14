@@ -1,6 +1,6 @@
 # Hello, friends! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Oleg Nadych and I'm a software developer. I'm from Russia, living in Ekaterinburg and currently working on client/server Java Developement. You can find me on [![Тут текст](http://component-m.ru/wp-content/uploads/2021/11/linkedin20.png)](https://www.linkedin.com/in/oleg-nadych-a8b06012a)
+My name is Oleg Nadych and I'm a software developer. I'm from Russia, living in Ekaterinburg and currently working on client/server Java Developement. You can find me on [![Тут текст](http://component-m.ru/wp-content/uploads/2021/11/linkedin20.png)](https://www.linkedin.com/in/oleg-nadych-a8b06012a) 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=1283c4)
