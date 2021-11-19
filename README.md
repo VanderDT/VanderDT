@@ -22,6 +22,7 @@ My name is Oleg Nadych and I'm a software developer. I'm from Russia, living in 
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Code-BootStrap-informational?style=flat&logo=bootstrap&logoColor=white&color=339933)
 
+![](https://img.shields.io/badge/Tools-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Tools-Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Tools-Vaadin-informational?style=flat&logo=vaadin&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=339933)
