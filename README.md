@@ -13,6 +13,7 @@ My name is Oleg Nadych and I'm a software developer. I'm from Russia, living in 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=f48041)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=ApacheMaven&logoColor=white&color=f48041)
 ![](https://img.shields.io/badge/Tools-Flyway-informational?style=flat&logo=flyway&logoColor=white&color=f48041)
+![](https://img.shields.io/badge/Tools-Liquibase-informational?style=flat&logo=liquibase&logoColor=white&color=f48041)
 
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Code-AngularJS-informational?style=flat&logo=angularjs&logoColor=white&color=339933)
@@ -28,7 +29,7 @@ My name is Oleg Nadych and I'm a software developer. I'm from Russia, living in 
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=339933)
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=339933)
-![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=trello&logoColor=white&color=339933)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Messenger-Slack-informational?style=flat&logo=Slack&logoColor=white&color=339933) 
 
 
